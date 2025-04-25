@@ -1,14 +1,10 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
 <h2 align="center">🚀 ABOUT ME !!</h2>
 
 <p>
   <strong style="color:#f39c12;">👤 Name:</strong> <span style="color:#ecf0f1;">Aadish Sanghvi</span><br/>
-  <strong style="color:#f39c12;">🎯 Specialization:</strong> <span style="color:#ecf0f1;">Machine Learning & Full-Stack Web Development</span>
+  <strong style="color:#f39c12;">🎯 Specialization:</strong> <span style="color:#ecf0f1;">Machine Learning and GenAI</span>
 </p>
 
 <h3>🎓 Education</h3>
@@ -36,3 +32,7 @@
   <li>Smart India Hackathon (SIH) 2024 Finalist</li>
   <li>ML Intern @ Cognifyz</li>
 </ul>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aadish-Sanghvi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>

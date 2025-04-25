@@ -32,7 +32,3 @@
   <li>Smart India Hackathon (SIH) 2024 Finalist</li>
   <li>ML Intern @ Cognifyz</li>
 </ul>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aadish-Sanghvi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>

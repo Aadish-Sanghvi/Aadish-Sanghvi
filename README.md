@@ -4,26 +4,35 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-{
-  "Name": "Aadish Sanghvi",
-  "Specialization": "Machine Learning & Full-Stack Web Development",
-  "Education": {
-    "degree": "B.Tech in Computer Science",
-    "status": "3rd Year Undergraduate"
-  },
-  "Interests": [
-    "AI/ML",
-    "Deep Learning",
-    "NLP",
-    "GenAI",
-    "LLMs",
-  ],
-  "Current_focus": [
-    "Building AI-powered solutions",
-    "Learning LangChain and LLM Fine-Tuning",
-  ], 
-  "achievements": [
-    "Smart India Hackathon (SIH) 2024 Finalist",
-    "ML Intern @Cognifyz",
-  ],
-}
+<h2 align="center">🚀 ABOUT ME !!</h2>
+
+<p>
+  <strong style="color:#f39c12;">👤 Name:</strong> <span style="color:#ecf0f1;">Aadish Sanghvi</span><br/>
+  <strong style="color:#f39c12;">🎯 Specialization:</strong> <span style="color:#ecf0f1;">Machine Learning & Full-Stack Web Development</span>
+</p>
+
+<h3>🎓 Education</h3>
+<ul>
+  <li><strong>B.Tech in Computer Science</strong> – 3rd Year Undergraduate</li>
+</ul>
+
+<h3>💡 Interests</h3>
+<ul>
+  <li>AI/ML</li>
+  <li>Deep Learning</li>
+  <li>NLP</li>
+  <li>GenAI</li>
+  <li>LLMs</li>
+</ul>
+
+<h3>🛠️ Current Focus</h3>
+<ul>
+  <li>Building AI-powered solutions</li>
+  <li>Learning LangChain and LLM Fine-Tuning</li>
+</ul>
+
+<h3>🏆 Achievements</h3>
+<ul>
+  <li>Smart India Hackathon (SIH) 2024 Finalist</li>
+  <li>ML Intern @ Cognifyz</li>
+</ul>

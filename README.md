@@ -19,7 +19,6 @@
 
 🎓 Final Year B.Tech CSE Student at *Acropolis Institute, Indore*  
 📊 *Current CGPA*: 7.12
-
 💡 Passionate about AI/ML and GenAI Solutions
 💼 I have Worked upon:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 NALCO – SIH'24 Project  

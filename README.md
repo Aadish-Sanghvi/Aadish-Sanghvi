@@ -37,7 +37,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,langchian,openai,streamlit,fastapi,flask,html,css,mysql,git,github,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,flask,html,css,mysql,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
 ---

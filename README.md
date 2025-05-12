@@ -26,8 +26,10 @@
 💼 I have Worked upon:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 NALCO – SIH'24 Project  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 AI-based Attendance System  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Krishi Moolya – Crop Price Prediction  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Krishi Moolya – Crop Price Prediction 
+
 🌱 Learning: GenAI, FastAPI, Deployment on AWS  
+
 📍 Based in India
 
 ---

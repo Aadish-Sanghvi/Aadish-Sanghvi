@@ -68,11 +68,11 @@
 ## 🏆 Achievements
 
 - 🏆 *SIH 2024 Grand Finalist*  
-- 🏅 *Top performer in JEE Mains*: 100% Scholarship recipient in B.Tech
+- 👑 *Patent Holder*
+- 🏅 *Top performer in JEE Mains* : 100% Scholarship recipient in B.Tech
 - 🏅 *SOF cyber gold medalist (2018)*
 - 🥉 *Dell Champs school level 3rd position (2018)*  
 - 📄 *Passed NPTEL Certification Exam in DBMS, Data Analytics, Computer Networks*
-- 👑 *Patent Holder*
 
 ---
 
